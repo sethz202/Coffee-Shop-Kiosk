@@ -4,3 +4,8 @@ This program was created early in my software development journey and allowed me
 
 Technologies used:
 Java
+
+How to use:
+1. Fork this repo
+2. Run CoffeeKiosk.java
+3. Follow the instructions on screen to create your custom drinks
